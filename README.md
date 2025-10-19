@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+ZoukhDev;Full+Stack+Web+Developer;E-commerce+websites;All+type+of+agencies+websites;SaaS+project+and+MVPs+apps;Mobile+applications;Always+learning+new+things" alt="Typing SVG" />
+=======
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+ZoukhDev;Full+Stack+Web+Developer;3D+Portfolio+Creator;Always+learning+new+things" alt="Typing SVG" />
+>>>>>>> 3bcfe6f5c40aa039df48f0f2bc18907e43e6f33c
 </div>
 
 ---
